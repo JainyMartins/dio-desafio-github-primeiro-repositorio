@@ -1,2 +1,14 @@
 Link para download do Git https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+- Passo a passo:
+•	1) Criar repositório novo no GitHub;
+•	2) Colocar informações, marcar add a README para ficar salvo as alterações; gitignore pode usar para ignorar alguns arquivos que não são necessários; licença também pode ser utilizada;
+•	3) Criar;
+•	4) Pode editar pelo próprio githhub no edit file;
+•	5) Readme pode ser alterado por markdown – pode acessar site www.markdownguide.org/basic-syntax para ver alterações que podem ser feitas;
+•	6) Ao fazer alterações, tem de ir em COMMIT CHANGES para salvar (comitar);
+•	7) Ir ao repositório, ir em CODE e CLONE – HTTPS;
+•	8) Criar pasta no PC onde quer, executar git bash na pasta, usar git clone + link https; clonar; se não tiver logado irá pedir pra logar;
+•	9) Pode ir colocando todas as anotações que quiser, criar pastas, salvar códigos, etc...
+•	10) Vamos enviar as alterações para o servidor remoto; podemos usar git add. Ou git add -a; adicionou no git local com esse comando, agora tem que mandar pro remoto – git commit -m “Inclusão das anotações do curso de Git/GitHub” (sempre colocar comentários explicando o que vai enviar); colocar git push origin main; vai pedir pra logar, logar; Estará no github;
